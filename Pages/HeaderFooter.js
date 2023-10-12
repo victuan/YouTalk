@@ -62,7 +62,7 @@ let appFooter = `
                 <ul class="footer__list2">
                     <li><a href="#">Блог</a></li>
                     <li><a href="#">Вебинары</a></li>
-                    <li><a href="#">Подскаст</a></li>
+                    <li><a href="#">Подкаст</a></li>
                     <li><a href="#">Сертификат</a></li>
                     <li><a href="#">Контакты</a></li>
                 </ul>
