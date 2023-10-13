@@ -108,6 +108,7 @@
         margin-top: 24px;
         display: grid;
         grid-template-columns: 1fr 1fr;
+        column-gap: 16px;
     }
 /*    .aside__blockA, .aside__blockB {
         display: flex;
